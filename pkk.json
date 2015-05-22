@@ -1,0 +1,1687 @@
+{
+    "displayFieldName": "NAME", 
+    "features": [
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424304000000, 
+                "BRD_CNT": 149, 
+                "CAD_NUM": "01", 
+                "KVARTALS_CNT": 6718, 
+                "NAME": "Адыгейский", 
+                "OBJECTID": 244, 
+                "OKS_CNT": null, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 254097, 
+                "ONLINE_PARCELS_CNT": 258349, 
+                "PARCELS_CNT": 179480, 
+                "RAYONS_CNT": 10, 
+                "REGION_KEY": "101", 
+                "TZ_CNT": 5, 
+                "ZOUIT_CNT": 2665
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1386806400000, 
+                "BRD_CNT": 1262, 
+                "CAD_NUM": "02", 
+                "KVARTALS_CNT": 19261, 
+                "NAME": "Башкирский", 
+                "OBJECTID": 245, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 2323526, 
+                "ONLINE_PARCELS_CNT": 2244150, 
+                "PARCELS_CNT": 1805194, 
+                "RAYONS_CNT": 76, 
+                "REGION_KEY": "102", 
+                "TZ_CNT": 536, 
+                "ZOUIT_CNT": 23667
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424131200000, 
+                "BRD_CNT": 311, 
+                "CAD_NUM": "03", 
+                "KVARTALS_CNT": 16442, 
+                "NAME": "Бурятский", 
+                "OBJECTID": 246, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 491337, 
+                "ONLINE_PARCELS_CNT": 599917, 
+                "PARCELS_CNT": 471171, 
+                "RAYONS_CNT": 25, 
+                "REGION_KEY": "103", 
+                "TZ_CNT": 7, 
+                "ZOUIT_CNT": 1468
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424304000000, 
+                "BRD_CNT": 105, 
+                "CAD_NUM": "04", 
+                "KVARTALS_CNT": 2114, 
+                "NAME": "Алтайский республиканский", 
+                "OBJECTID": 247, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 105254, 
+                "ONLINE_PARCELS_CNT": 210621, 
+                "PARCELS_CNT": 92079, 
+                "RAYONS_CNT": 12, 
+                "REGION_KEY": "104", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 90
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1425859200000, 
+                "BRD_CNT": 1, 
+                "CAD_NUM": "05", 
+                "KVARTALS_CNT": 5039, 
+                "NAME": "Дагестанский", 
+                "OBJECTID": 248, 
+                "OKS_CNT": null, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 593719, 
+                "ONLINE_PARCELS_CNT": 896338, 
+                "PARCELS_CNT": 315380, 
+                "RAYONS_CNT": 52, 
+                "REGION_KEY": "105", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 390
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424995200000, 
+                "BRD_CNT": 41, 
+                "CAD_NUM": "06", 
+                "KVARTALS_CNT": 205, 
+                "NAME": "Ингушский", 
+                "OBJECTID": 249, 
+                "OKS_CNT": null, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 83789, 
+                "ONLINE_PARCELS_CNT": 113915, 
+                "PARCELS_CNT": 26895, 
+                "RAYONS_CNT": 8, 
+                "REGION_KEY": "106", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 11
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1423785600000, 
+                "BRD_CNT": 8, 
+                "CAD_NUM": "07", 
+                "KVARTALS_CNT": 2757, 
+                "NAME": "Кабардино-Балкарский", 
+                "OBJECTID": 250, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 340511, 
+                "ONLINE_PARCELS_CNT": 303010, 
+                "PARCELS_CNT": 97351, 
+                "RAYONS_CNT": 12, 
+                "REGION_KEY": "107", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 13
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1370217600000, 
+                "BRD_CNT": 0, 
+                "CAD_NUM": "08", 
+                "KVARTALS_CNT": 1775, 
+                "NAME": "Калмыцкий", 
+                "OBJECTID": 251, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 136469, 
+                "ONLINE_PARCELS_CNT": 159636, 
+                "PARCELS_CNT": 92994, 
+                "RAYONS_CNT": 15, 
+                "REGION_KEY": "108", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 45
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1425340800000, 
+                "BRD_CNT": 3, 
+                "CAD_NUM": "09", 
+                "KVARTALS_CNT": 1687, 
+                "NAME": "Карачаево-Черкесский", 
+                "OBJECTID": 252, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 185142, 
+                "ONLINE_PARCELS_CNT": 251700, 
+                "PARCELS_CNT": 77866, 
+                "RAYONS_CNT": 11, 
+                "REGION_KEY": "109", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 200
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424131200000, 
+                "BRD_CNT": 34, 
+                "CAD_NUM": "10", 
+                "KVARTALS_CNT": 9931, 
+                "NAME": "Карельский", 
+                "OBJECTID": 253, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 448911, 
+                "ONLINE_PARCELS_CNT": 278723, 
+                "PARCELS_CNT": 128513, 
+                "RAYONS_CNT": 23, 
+                "REGION_KEY": "110", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 423
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1369699200000, 
+                "BRD_CNT": 0, 
+                "CAD_NUM": "11", 
+                "KVARTALS_CNT": 2828, 
+                "NAME": "Коми", 
+                "OBJECTID": 254, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 544985, 
+                "ONLINE_PARCELS_CNT": 337271, 
+                "PARCELS_CNT": 119184, 
+                "RAYONS_CNT": 21, 
+                "REGION_KEY": "111", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 0
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424995200000, 
+                "BRD_CNT": 14, 
+                "CAD_NUM": "12", 
+                "KVARTALS_CNT": 5705, 
+                "NAME": "Марийский", 
+                "OBJECTID": 255, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 447101, 
+                "ONLINE_PARCELS_CNT": 464909, 
+                "PARCELS_CNT": 198356, 
+                "RAYONS_CNT": 18, 
+                "REGION_KEY": "112", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 1151
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1359676800000, 
+                "BRD_CNT": 0, 
+                "CAD_NUM": "13", 
+                "KVARTALS_CNT": 3396, 
+                "NAME": "Мордовский", 
+                "OBJECTID": 256, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 498702, 
+                "ONLINE_PARCELS_CNT": 525246, 
+                "PARCELS_CNT": 184861, 
+                "RAYONS_CNT": 26, 
+                "REGION_KEY": "113", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 0
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1369785600000, 
+                "BRD_CNT": 0, 
+                "CAD_NUM": "14", 
+                "KVARTALS_CNT": 2911, 
+                "NAME": "Якутский", 
+                "OBJECTID": 257, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 630580, 
+                "ONLINE_PARCELS_CNT": 452191, 
+                "PARCELS_CNT": 189951, 
+                "RAYONS_CNT": 38, 
+                "REGION_KEY": "114", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 0
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424476800000, 
+                "BRD_CNT": 3, 
+                "CAD_NUM": "15", 
+                "KVARTALS_CNT": 7958, 
+                "NAME": "Северо-Осетинский", 
+                "OBJECTID": 258, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 336107, 
+                "ONLINE_PARCELS_CNT": 198427, 
+                "PARCELS_CNT": 97903, 
+                "RAYONS_CNT": 10, 
+                "REGION_KEY": "115", 
+                "TZ_CNT": 3, 
+                "ZOUIT_CNT": 169
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1418688000000, 
+                "BRD_CNT": 534, 
+                "CAD_NUM": "16", 
+                "KVARTALS_CNT": 19189, 
+                "NAME": "Татарский", 
+                "OBJECTID": 259, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 2431307, 
+                "ONLINE_PARCELS_CNT": 2031717, 
+                "PARCELS_CNT": 1864634, 
+                "RAYONS_CNT": 57, 
+                "REGION_KEY": "116", 
+                "TZ_CNT": 6, 
+                "ZOUIT_CNT": 18418
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1390262400000, 
+                "BRD_CNT": 5, 
+                "CAD_NUM": "17", 
+                "KVARTALS_CNT": 2224, 
+                "NAME": "Тувинский", 
+                "OBJECTID": 260, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 107604, 
+                "ONLINE_PARCELS_CNT": 151910, 
+                "PARCELS_CNT": 81722, 
+                "RAYONS_CNT": 20, 
+                "REGION_KEY": "117", 
+                "TZ_CNT": 2, 
+                "ZOUIT_CNT": 259
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424649600000, 
+                "BRD_CNT": 16, 
+                "CAD_NUM": "18", 
+                "KVARTALS_CNT": 10509, 
+                "NAME": "Удмуртский", 
+                "OBJECTID": 261, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 1102714, 
+                "ONLINE_PARCELS_CNT": 1115327, 
+                "PARCELS_CNT": 697659, 
+                "RAYONS_CNT": 31, 
+                "REGION_KEY": "118", 
+                "TZ_CNT": 3, 
+                "ZOUIT_CNT": 1460
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424908800000, 
+                "BRD_CNT": 124, 
+                "CAD_NUM": "19", 
+                "KVARTALS_CNT": 3128, 
+                "NAME": "Хакасский", 
+                "OBJECTID": 262, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 357676, 
+                "ONLINE_PARCELS_CNT": 343887, 
+                "PARCELS_CNT": 149535, 
+                "RAYONS_CNT": 12, 
+                "REGION_KEY": "119", 
+                "TZ_CNT": 3, 
+                "ZOUIT_CNT": 705
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1425340800000, 
+                "BRD_CNT": 1, 
+                "CAD_NUM": "20", 
+                "KVARTALS_CNT": 2377, 
+                "NAME": "Чеченский", 
+                "OBJECTID": 263, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 278436, 
+                "ONLINE_PARCELS_CNT": 383220, 
+                "PARCELS_CNT": 35248, 
+                "RAYONS_CNT": 18, 
+                "REGION_KEY": "120", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 2
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1426464000000, 
+                "BRD_CNT": 2046, 
+                "CAD_NUM": "21", 
+                "KVARTALS_CNT": 8326, 
+                "NAME": "Чувашский", 
+                "OBJECTID": 264, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 733093, 
+                "ONLINE_PARCELS_CNT": 868340, 
+                "PARCELS_CNT": 354449, 
+                "RAYONS_CNT": 27, 
+                "REGION_KEY": "121", 
+                "TZ_CNT": 1, 
+                "ZOUIT_CNT": 2361
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1425859200000, 
+                "BRD_CNT": 1942, 
+                "CAD_NUM": "22", 
+                "KVARTALS_CNT": 14901, 
+                "NAME": "Алтайский краевой", 
+                "OBJECTID": 265, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 1477924, 
+                "ONLINE_PARCELS_CNT": 1824162, 
+                "PARCELS_CNT": 1020624, 
+                "RAYONS_CNT": 74, 
+                "REGION_KEY": "122", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 1692
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424908800000, 
+                "BRD_CNT": 5599, 
+                "CAD_NUM": "23", 
+                "KVARTALS_CNT": 36001, 
+                "NAME": "Краснодарский", 
+                "OBJECTID": 266, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 3348656, 
+                "ONLINE_PARCELS_CNT": 2706414, 
+                "PARCELS_CNT": 1501992, 
+                "RAYONS_CNT": 52, 
+                "REGION_KEY": "123", 
+                "TZ_CNT": 592, 
+                "ZOUIT_CNT": 8313
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1401148800000, 
+                "BRD_CNT": 0, 
+                "CAD_NUM": "24, 84, 88", 
+                "KVARTALS_CNT": 19111, 
+                "NAME": "Красноярский, Таймырский, Эвенкийский", 
+                "OBJECTID": 267, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 2022288, 
+                "ONLINE_PARCELS_CNT": 1730524, 
+                "PARCELS_CNT": 881612, 
+                "RAYONS_CNT": 72, 
+                "REGION_KEY": "124", 
+                "TZ_CNT": 22, 
+                "ZOUIT_CNT": 574
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1407456000000, 
+                "BRD_CNT": 41, 
+                "CAD_NUM": "25", 
+                "KVARTALS_CNT": 3486, 
+                "NAME": "Приморский", 
+                "OBJECTID": 268, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 1275396, 
+                "ONLINE_PARCELS_CNT": 706645, 
+                "PARCELS_CNT": 245070, 
+                "RAYONS_CNT": 37, 
+                "REGION_KEY": "125", 
+                "TZ_CNT": 119, 
+                "ZOUIT_CNT": 95
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1425686400000, 
+                "BRD_CNT": 48, 
+                "CAD_NUM": "26", 
+                "KVARTALS_CNT": 31879, 
+                "NAME": "Ставропольский", 
+                "OBJECTID": 269, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 1741671, 
+                "ONLINE_PARCELS_CNT": 1306684, 
+                "PARCELS_CNT": 548665, 
+                "RAYONS_CNT": 37, 
+                "REGION_KEY": "126", 
+                "TZ_CNT": 1, 
+                "ZOUIT_CNT": 1177
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424822400000, 
+                "BRD_CNT": 107, 
+                "CAD_NUM": "27", 
+                "KVARTALS_CNT": 5691, 
+                "NAME": "Хабаровский", 
+                "OBJECTID": 270, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 808570, 
+                "ONLINE_PARCELS_CNT": 428748, 
+                "PARCELS_CNT": 187270, 
+                "RAYONS_CNT": 24, 
+                "REGION_KEY": "127", 
+                "TZ_CNT": 530, 
+                "ZOUIT_CNT": 1485
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1369785600000, 
+                "BRD_CNT": 57, 
+                "CAD_NUM": "28", 
+                "KVARTALS_CNT": 9262, 
+                "NAME": "Амурский", 
+                "OBJECTID": 271, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 520951, 
+                "ONLINE_PARCELS_CNT": 475962, 
+                "PARCELS_CNT": 185465, 
+                "RAYONS_CNT": 29, 
+                "REGION_KEY": "128", 
+                "TZ_CNT": 9, 
+                "ZOUIT_CNT": 237
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424304000000, 
+                "BRD_CNT": 18, 
+                "CAD_NUM": "29, 83", 
+                "KVARTALS_CNT": 7976, 
+                "NAME": "Архангельский, Ненецкий", 
+                "OBJECTID": 272, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 803644, 
+                "ONLINE_PARCELS_CNT": 433548, 
+                "PARCELS_CNT": 149282, 
+                "RAYONS_CNT": 32, 
+                "REGION_KEY": "129", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 577
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424908800000, 
+                "BRD_CNT": 226, 
+                "CAD_NUM": "30", 
+                "KVARTALS_CNT": 6290, 
+                "NAME": "Астраханский", 
+                "OBJECTID": 273, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 623491, 
+                "ONLINE_PARCELS_CNT": 429016, 
+                "PARCELS_CNT": 221074, 
+                "RAYONS_CNT": 15, 
+                "REGION_KEY": "130", 
+                "TZ_CNT": 2, 
+                "ZOUIT_CNT": 517
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1375315200000, 
+                "BRD_CNT": 98, 
+                "CAD_NUM": "31", 
+                "KVARTALS_CNT": 18455, 
+                "NAME": "Белгородский", 
+                "OBJECTID": 274, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 1093917, 
+                "ONLINE_PARCELS_CNT": 965037, 
+                "PARCELS_CNT": 372634, 
+                "RAYONS_CNT": 28, 
+                "REGION_KEY": "131", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 2711
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1425772800000, 
+                "BRD_CNT": 4, 
+                "CAD_NUM": "32", 
+                "KVARTALS_CNT": 23449, 
+                "NAME": "Брянский", 
+                "OBJECTID": 275, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 818627, 
+                "ONLINE_PARCELS_CNT": 920127, 
+                "PARCELS_CNT": 391508, 
+                "RAYONS_CNT": 33, 
+                "REGION_KEY": "132", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 2945
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424304000000, 
+                "BRD_CNT": 2004, 
+                "CAD_NUM": "33", 
+                "KVARTALS_CNT": 8669, 
+                "NAME": "Владимирский", 
+                "OBJECTID": 276, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 1093881, 
+                "ONLINE_PARCELS_CNT": 927492, 
+                "PARCELS_CNT": 448919, 
+                "RAYONS_CNT": 26, 
+                "REGION_KEY": "133", 
+                "TZ_CNT": 64, 
+                "ZOUIT_CNT": 1193
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1366761600000, 
+                "BRD_CNT": 23, 
+                "CAD_NUM": "34", 
+                "KVARTALS_CNT": 5853, 
+                "NAME": "Волгоградский", 
+                "OBJECTID": 277, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 1795613, 
+                "ONLINE_PARCELS_CNT": 1021408, 
+                "PARCELS_CNT": 542468, 
+                "RAYONS_CNT": 40, 
+                "REGION_KEY": "134", 
+                "TZ_CNT": 3, 
+                "ZOUIT_CNT": 578
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1370390400000, 
+                "BRD_CNT": 300, 
+                "CAD_NUM": "35", 
+                "KVARTALS_CNT": 11869, 
+                "NAME": "Вологодский", 
+                "OBJECTID": 278, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 849399, 
+                "ONLINE_PARCELS_CNT": 861328, 
+                "PARCELS_CNT": 169197, 
+                "RAYONS_CNT": 29, 
+                "REGION_KEY": "135", 
+                "TZ_CNT": 85, 
+                "ZOUIT_CNT": 203
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1422662400000, 
+                "BRD_CNT": 633, 
+                "CAD_NUM": "36", 
+                "KVARTALS_CNT": 22869, 
+                "NAME": "Воронежский", 
+                "OBJECTID": 279, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 1729825, 
+                "ONLINE_PARCELS_CNT": 1216409, 
+                "PARCELS_CNT": 482680, 
+                "RAYONS_CNT": 35, 
+                "REGION_KEY": "136", 
+                "TZ_CNT": 647, 
+                "ZOUIT_CNT": 637
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424908800000, 
+                "BRD_CNT": 21, 
+                "CAD_NUM": "37", 
+                "KVARTALS_CNT": 14044, 
+                "NAME": "Ивановский", 
+                "OBJECTID": 280, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 690756, 
+                "ONLINE_PARCELS_CNT": 673981, 
+                "PARCELS_CNT": 330128, 
+                "RAYONS_CNT": 29, 
+                "REGION_KEY": "137", 
+                "TZ_CNT": 1, 
+                "ZOUIT_CNT": 1389
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1425686400000, 
+                "BRD_CNT": 416, 
+                "CAD_NUM": "38, 85", 
+                "KVARTALS_CNT": 8364, 
+                "NAME": "Иркутский, Усть-Ордынский", 
+                "OBJECTID": 281, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 1382633, 
+                "ONLINE_PARCELS_CNT": 1138135, 
+                "PARCELS_CNT": 696295, 
+                "RAYONS_CNT": 45, 
+                "REGION_KEY": "138", 
+                "TZ_CNT": 220, 
+                "ZOUIT_CNT": 4044
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424476800000, 
+                "BRD_CNT": 171, 
+                "CAD_NUM": "39", 
+                "KVARTALS_CNT": 6821, 
+                "NAME": "Калининградский", 
+                "OBJECTID": 282, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 582163, 
+                "ONLINE_PARCELS_CNT": 431768, 
+                "PARCELS_CNT": 317371, 
+                "RAYONS_CNT": 24, 
+                "REGION_KEY": "139", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 582
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424390400000, 
+                "BRD_CNT": 261, 
+                "CAD_NUM": "40", 
+                "KVARTALS_CNT": 16044, 
+                "NAME": "Калужский", 
+                "OBJECTID": 283, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 775887, 
+                "ONLINE_PARCELS_CNT": 778949, 
+                "PARCELS_CNT": 371055, 
+                "RAYONS_CNT": 30, 
+                "REGION_KEY": "140", 
+                "TZ_CNT": 266, 
+                "ZOUIT_CNT": 1336
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1425600000000, 
+                "BRD_CNT": 11, 
+                "CAD_NUM": "41, 82", 
+                "KVARTALS_CNT": 306, 
+                "NAME": "Камчатский, Корякский", 
+                "OBJECTID": 284, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 198066, 
+                "ONLINE_PARCELS_CNT": 114232, 
+                "PARCELS_CNT": 33542, 
+                "RAYONS_CNT": 15, 
+                "REGION_KEY": "141", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 50
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424044800000, 
+                "BRD_CNT": 1, 
+                "CAD_NUM": "42", 
+                "KVARTALS_CNT": 8663, 
+                "NAME": "Кемеровский", 
+                "OBJECTID": 285, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 1760619, 
+                "ONLINE_PARCELS_CNT": 1080877, 
+                "PARCELS_CNT": 398194, 
+                "RAYONS_CNT": 40, 
+                "REGION_KEY": "142", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 2106
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1425859200000, 
+                "BRD_CNT": 1077, 
+                "CAD_NUM": "43", 
+                "KVARTALS_CNT": 11677, 
+                "NAME": "Кировский", 
+                "OBJECTID": 286, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 986844, 
+                "ONLINE_PARCELS_CNT": 829204, 
+                "PARCELS_CNT": 317839, 
+                "RAYONS_CNT": 45, 
+                "REGION_KEY": "143", 
+                "TZ_CNT": 14, 
+                "ZOUIT_CNT": 1520
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1370476800000, 
+                "BRD_CNT": 0, 
+                "CAD_NUM": "44", 
+                "KVARTALS_CNT": 12829, 
+                "NAME": "Костромской", 
+                "OBJECTID": 287, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 555322, 
+                "ONLINE_PARCELS_CNT": 449655, 
+                "PARCELS_CNT": 106185, 
+                "RAYONS_CNT": 31, 
+                "REGION_KEY": "144", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 0
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1370736000000, 
+                "BRD_CNT": 0, 
+                "CAD_NUM": "45", 
+                "KVARTALS_CNT": 4123, 
+                "NAME": "Курганский", 
+                "OBJECTID": 288, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 734821, 
+                "ONLINE_PARCELS_CNT": 649463, 
+                "PARCELS_CNT": 243411, 
+                "RAYONS_CNT": 27, 
+                "REGION_KEY": "145", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 2946
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424649600000, 
+                "BRD_CNT": 17, 
+                "CAD_NUM": "46", 
+                "KVARTALS_CNT": 11822, 
+                "NAME": "Курский", 
+                "OBJECTID": 289, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 789922, 
+                "ONLINE_PARCELS_CNT": 645797, 
+                "PARCELS_CNT": 209259, 
+                "RAYONS_CNT": 34, 
+                "REGION_KEY": "146", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 600
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1401408000000, 
+                "BRD_CNT": 35, 
+                "CAD_NUM": "47", 
+                "KVARTALS_CNT": 19195, 
+                "NAME": "Ленинградский", 
+                "OBJECTID": 290, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 1876439, 
+                "ONLINE_PARCELS_CNT": 1269924, 
+                "PARCELS_CNT": 396937, 
+                "RAYONS_CNT": 30, 
+                "REGION_KEY": "147", 
+                "TZ_CNT": 12, 
+                "ZOUIT_CNT": 676
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424476800000, 
+                "BRD_CNT": 863, 
+                "CAD_NUM": "48", 
+                "KVARTALS_CNT": 29314, 
+                "NAME": "Липецкий", 
+                "OBJECTID": 291, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 865715, 
+                "ONLINE_PARCELS_CNT": 635327, 
+                "PARCELS_CNT": 260055, 
+                "RAYONS_CNT": 21, 
+                "REGION_KEY": "148", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 3415
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1419638400000, 
+                "BRD_CNT": 0, 
+                "CAD_NUM": "49, 87", 
+                "KVARTALS_CNT": 874, 
+                "NAME": "Магаданский, Чукотский", 
+                "OBJECTID": 292, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 183352, 
+                "ONLINE_PARCELS_CNT": 71532, 
+                "PARCELS_CNT": 61026, 
+                "RAYONS_CNT": 21, 
+                "REGION_KEY": "149", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 34
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424131200000, 
+                "BRD_CNT": 615, 
+                "CAD_NUM": "50", 
+                "KVARTALS_CNT": 33622, 
+                "NAME": "Московский областной", 
+                "OBJECTID": 293, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 8968022, 
+                "ONLINE_PARCELS_CNT": 3736715, 
+                "PARCELS_CNT": 2115577, 
+                "RAYONS_CNT": 63, 
+                "REGION_KEY": "150", 
+                "TZ_CNT": 28, 
+                "ZOUIT_CNT": 1931
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424995200000, 
+                "BRD_CNT": 6, 
+                "CAD_NUM": "51", 
+                "KVARTALS_CNT": 1833, 
+                "NAME": "Мурманский", 
+                "OBJECTID": 294, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 566618, 
+                "ONLINE_PARCELS_CNT": 89081, 
+                "PARCELS_CNT": 80323, 
+                "RAYONS_CNT": 28, 
+                "REGION_KEY": "151", 
+                "TZ_CNT": 526, 
+                "ZOUIT_CNT": 266
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1370390400000, 
+                "BRD_CNT": 64, 
+                "CAD_NUM": "52", 
+                "KVARTALS_CNT": 18209, 
+                "NAME": "Нижегородский", 
+                "OBJECTID": 295, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 2352228, 
+                "ONLINE_PARCELS_CNT": 1777891, 
+                "PARCELS_CNT": 704545, 
+                "RAYONS_CNT": 60, 
+                "REGION_KEY": "152", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 1969
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1419984000000, 
+                "BRD_CNT": 1487, 
+                "CAD_NUM": "53", 
+                "KVARTALS_CNT": 13343, 
+                "NAME": "Новгородский", 
+                "OBJECTID": 296, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 630316, 
+                "ONLINE_PARCELS_CNT": 522118, 
+                "PARCELS_CNT": 228253, 
+                "RAYONS_CNT": 25, 
+                "REGION_KEY": "153", 
+                "TZ_CNT": 12, 
+                "ZOUIT_CNT": 620
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1406764800000, 
+                "BRD_CNT": 0, 
+                "CAD_NUM": "54", 
+                "KVARTALS_CNT": 15347, 
+                "NAME": "Новосибирский", 
+                "OBJECTID": 297, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 1469231, 
+                "ONLINE_PARCELS_CNT": 1271705, 
+                "PARCELS_CNT": 763180, 
+                "RAYONS_CNT": 38, 
+                "REGION_KEY": "154", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 0
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1408665600000, 
+                "BRD_CNT": 61, 
+                "CAD_NUM": "55", 
+                "KVARTALS_CNT": 7657, 
+                "NAME": "Омский", 
+                "OBJECTID": 298, 
+                "OKS_CNT": 114695, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 1183495, 
+                "ONLINE_PARCELS_CNT": 914787, 
+                "PARCELS_CNT": 302641, 
+                "RAYONS_CNT": 39, 
+                "REGION_KEY": "155", 
+                "TZ_CNT": 1174, 
+                "ZOUIT_CNT": 1266
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424476800000, 
+                "BRD_CNT": 47, 
+                "CAD_NUM": "56", 
+                "KVARTALS_CNT": 30521, 
+                "NAME": "Оренбургский", 
+                "OBJECTID": 299, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 1327273, 
+                "ONLINE_PARCELS_CNT": 1065117, 
+                "PARCELS_CNT": 539448, 
+                "RAYONS_CNT": 48, 
+                "REGION_KEY": "156", 
+                "TZ_CNT": 2, 
+                "ZOUIT_CNT": 11942
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424131200000, 
+                "BRD_CNT": 153, 
+                "CAD_NUM": "57", 
+                "KVARTALS_CNT": 6645, 
+                "NAME": "Орловский", 
+                "OBJECTID": 300, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 514849, 
+                "ONLINE_PARCELS_CNT": 507705, 
+                "PARCELS_CNT": 259655, 
+                "RAYONS_CNT": 28, 
+                "REGION_KEY": "157", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 11022
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1425168000000, 
+                "BRD_CNT": 123, 
+                "CAD_NUM": "58", 
+                "KVARTALS_CNT": 10147, 
+                "NAME": "Пензенский", 
+                "OBJECTID": 301, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 958357, 
+                "ONLINE_PARCELS_CNT": 765213, 
+                "PARCELS_CNT": 517802, 
+                "RAYONS_CNT": 34, 
+                "REGION_KEY": "158", 
+                "TZ_CNT": 1669, 
+                "ZOUIT_CNT": 3168
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424131200000, 
+                "BRD_CNT": 614, 
+                "CAD_NUM": "59, 81", 
+                "KVARTALS_CNT": 36620, 
+                "NAME": "Пермский, Коми-Пермяцкий", 
+                "OBJECTID": 302, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 2328349, 
+                "ONLINE_PARCELS_CNT": 1639697, 
+                "PARCELS_CNT": 870564, 
+                "RAYONS_CNT": 8, 
+                "REGION_KEY": "159", 
+                "TZ_CNT": 186, 
+                "ZOUIT_CNT": 9157
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1425340800000, 
+                "BRD_CNT": 44, 
+                "CAD_NUM": "60", 
+                "KVARTALS_CNT": 21507, 
+                "NAME": "Псковский", 
+                "OBJECTID": 303, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 463501, 
+                "ONLINE_PARCELS_CNT": 539057, 
+                "PARCELS_CNT": 152646, 
+                "RAYONS_CNT": 27, 
+                "REGION_KEY": "160", 
+                "TZ_CNT": 338, 
+                "ZOUIT_CNT": 989
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424304000000, 
+                "BRD_CNT": 43, 
+                "CAD_NUM": "61", 
+                "KVARTALS_CNT": 21232, 
+                "NAME": "Ростовский", 
+                "OBJECTID": 304, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 4542403, 
+                "ONLINE_PARCELS_CNT": 2044760, 
+                "PARCELS_CNT": 1238303, 
+                "RAYONS_CNT": 60, 
+                "REGION_KEY": "161", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 2050
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1368662400000, 
+                "BRD_CNT": 351, 
+                "CAD_NUM": "62", 
+                "KVARTALS_CNT": 7362, 
+                "NAME": "Рязанский", 
+                "OBJECTID": 305, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 799132, 
+                "ONLINE_PARCELS_CNT": 708851, 
+                "PARCELS_CNT": 239506, 
+                "RAYONS_CNT": 30, 
+                "REGION_KEY": "162", 
+                "TZ_CNT": 2, 
+                "ZOUIT_CNT": 1435
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1370304000000, 
+                "BRD_CNT": 18, 
+                "CAD_NUM": "63", 
+                "KVARTALS_CNT": 18255, 
+                "NAME": "Самарский", 
+                "OBJECTID": 306, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 2132103, 
+                "ONLINE_PARCELS_CNT": 1586038, 
+                "PARCELS_CNT": 714631, 
+                "RAYONS_CNT": 38, 
+                "REGION_KEY": "163", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 1487
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1370304000000, 
+                "BRD_CNT": 49, 
+                "CAD_NUM": "64", 
+                "KVARTALS_CNT": 17523, 
+                "NAME": "Саратовский", 
+                "OBJECTID": 307, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 2196035, 
+                "ONLINE_PARCELS_CNT": 1046461, 
+                "PARCELS_CNT": 469344, 
+                "RAYONS_CNT": 53, 
+                "REGION_KEY": "164", 
+                "TZ_CNT": 401, 
+                "ZOUIT_CNT": 2002
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1418688000000, 
+                "BRD_CNT": 21, 
+                "CAD_NUM": "65", 
+                "KVARTALS_CNT": 1173, 
+                "NAME": "Сахалинский", 
+                "OBJECTID": 308, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 306580, 
+                "ONLINE_PARCELS_CNT": 142191, 
+                "PARCELS_CNT": 57843, 
+                "RAYONS_CNT": 28, 
+                "REGION_KEY": "165", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 58
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424304000000, 
+                "BRD_CNT": 113, 
+                "CAD_NUM": "66", 
+                "KVARTALS_CNT": 16911, 
+                "NAME": "Свердловский", 
+                "OBJECTID": 309, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 2925919, 
+                "ONLINE_PARCELS_CNT": 1626034, 
+                "PARCELS_CNT": 1396620, 
+                "RAYONS_CNT": 73, 
+                "REGION_KEY": "166", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 7480
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1375228800000, 
+                "BRD_CNT": 777, 
+                "CAD_NUM": "67", 
+                "KVARTALS_CNT": 11721, 
+                "NAME": "Смоленский", 
+                "OBJECTID": 310, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 631112, 
+                "ONLINE_PARCELS_CNT": 591323, 
+                "PARCELS_CNT": 205971, 
+                "RAYONS_CNT": 28, 
+                "REGION_KEY": "167", 
+                "TZ_CNT": 660, 
+                "ZOUIT_CNT": 577
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1425600000000, 
+                "BRD_CNT": 26, 
+                "CAD_NUM": "68", 
+                "KVARTALS_CNT": 32385, 
+                "NAME": "Тамбовский", 
+                "OBJECTID": 311, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 664287, 
+                "ONLINE_PARCELS_CNT": 679023, 
+                "PARCELS_CNT": 126227, 
+                "RAYONS_CNT": 31, 
+                "REGION_KEY": "168", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 878
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1382400000000, 
+                "BRD_CNT": 191, 
+                "CAD_NUM": "69", 
+                "KVARTALS_CNT": 23861, 
+                "NAME": "Тверской", 
+                "OBJECTID": 312, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 1037045, 
+                "ONLINE_PARCELS_CNT": 1132664, 
+                "PARCELS_CNT": 480583, 
+                "RAYONS_CNT": 51, 
+                "REGION_KEY": "169", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 0
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424390400000, 
+                "BRD_CNT": 2, 
+                "CAD_NUM": "70", 
+                "KVARTALS_CNT": 1944, 
+                "NAME": "Томский", 
+                "OBJECTID": 313, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 689771, 
+                "ONLINE_PARCELS_CNT": 464808, 
+                "PARCELS_CNT": 227147, 
+                "RAYONS_CNT": 23, 
+                "REGION_KEY": "170", 
+                "TZ_CNT": 6, 
+                "ZOUIT_CNT": 1086
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424908800000, 
+                "BRD_CNT": 24, 
+                "CAD_NUM": "71", 
+                "KVARTALS_CNT": 7987, 
+                "NAME": "Тульский", 
+                "OBJECTID": 314, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 1450015, 
+                "ONLINE_PARCELS_CNT": 871009, 
+                "PARCELS_CNT": 380241, 
+                "RAYONS_CNT": 33, 
+                "REGION_KEY": "171", 
+                "TZ_CNT": 116, 
+                "ZOUIT_CNT": 1353
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1371427200000, 
+                "BRD_CNT": 1383, 
+                "CAD_NUM": "72", 
+                "KVARTALS_CNT": 5335, 
+                "NAME": "Тюменский", 
+                "OBJECTID": 315, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 968292, 
+                "ONLINE_PARCELS_CNT": 863439, 
+                "PARCELS_CNT": 537213, 
+                "RAYONS_CNT": 27, 
+                "REGION_KEY": "172", 
+                "TZ_CNT": 2187, 
+                "ZOUIT_CNT": 433
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1369353600000, 
+                "BRD_CNT": 63, 
+                "CAD_NUM": "73", 
+                "KVARTALS_CNT": 6157, 
+                "NAME": "Ульяновский", 
+                "OBJECTID": 316, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 774015, 
+                "ONLINE_PARCELS_CNT": 710232, 
+                "PARCELS_CNT": 285938, 
+                "RAYONS_CNT": 25, 
+                "REGION_KEY": "173", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 763
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1425254400000, 
+                "BRD_CNT": 403, 
+                "CAD_NUM": "74", 
+                "KVARTALS_CNT": 25496, 
+                "NAME": "Челябинский", 
+                "OBJECTID": 317, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 2487768, 
+                "ONLINE_PARCELS_CNT": 1379302, 
+                "PARCELS_CNT": 633887, 
+                "RAYONS_CNT": 44, 
+                "REGION_KEY": "174", 
+                "TZ_CNT": 23, 
+                "ZOUIT_CNT": 6953
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424390400000, 
+                "BRD_CNT": 10, 
+                "CAD_NUM": "75, 80", 
+                "KVARTALS_CNT": 8327, 
+                "NAME": "Читинский, Агинский", 
+                "OBJECTID": 318, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 528094, 
+                "ONLINE_PARCELS_CNT": 561026, 
+                "PARCELS_CNT": 378606, 
+                "RAYONS_CNT": 34, 
+                "REGION_KEY": "175", 
+                "TZ_CNT": 119, 
+                "ZOUIT_CNT": 964
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1390435200000, 
+                "BRD_CNT": 0, 
+                "CAD_NUM": "76", 
+                "KVARTALS_CNT": 11666, 
+                "NAME": "Ярославский", 
+                "OBJECTID": 319, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 920048, 
+                "ONLINE_PARCELS_CNT": 661363, 
+                "PARCELS_CNT": 230599, 
+                "RAYONS_CNT": 24, 
+                "REGION_KEY": "176", 
+                "TZ_CNT": 28, 
+                "ZOUIT_CNT": 481
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1424217600000, 
+                "BRD_CNT": 1, 
+                "CAD_NUM": "77", 
+                "KVARTALS_CNT": 3143, 
+                "NAME": "Московский городской", 
+                "OBJECTID": 320, 
+                "OKS_CNT": 113629, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 6312233, 
+                "ONLINE_PARCELS_CNT": 338983, 
+                "PARCELS_CNT": 235009, 
+                "RAYONS_CNT": 23, 
+                "REGION_KEY": "177", 
+                "TZ_CNT": 17, 
+                "ZOUIT_CNT": 452
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1425340800000, 
+                "BRD_CNT": 0, 
+                "CAD_NUM": "78", 
+                "KVARTALS_CNT": 5731, 
+                "NAME": "Петербургский", 
+                "OBJECTID": 321, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 2703465, 
+                "ONLINE_PARCELS_CNT": 133520, 
+                "PARCELS_CNT": 114085, 
+                "RAYONS_CNT": 20, 
+                "REGION_KEY": "178", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 763
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1425081600000, 
+                "BRD_CNT": 0, 
+                "CAD_NUM": "79", 
+                "KVARTALS_CNT": 2033, 
+                "NAME": "Еврейский", 
+                "OBJECTID": 322, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 113772, 
+                "ONLINE_PARCELS_CNT": 112048, 
+                "PARCELS_CNT": 109418, 
+                "RAYONS_CNT": 7, 
+                "REGION_KEY": "179", 
+                "TZ_CNT": 209, 
+                "ZOUIT_CNT": 369
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1421712000000, 
+                "BRD_CNT": 247, 
+                "CAD_NUM": "86", 
+                "KVARTALS_CNT": 2525, 
+                "NAME": "Ханты-Мансийский", 
+                "OBJECTID": 323, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 1059642, 
+                "ONLINE_PARCELS_CNT": 699838, 
+                "PARCELS_CNT": 471681, 
+                "RAYONS_CNT": 23, 
+                "REGION_KEY": "186", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 3527
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1370822400000, 
+                "BRD_CNT": 102, 
+                "CAD_NUM": "89", 
+                "KVARTALS_CNT": 915, 
+                "NAME": "Ямало-Ненецкий", 
+                "OBJECTID": 324, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": null, 
+                "ONLINE_OKS_CNT": 380976, 
+                "ONLINE_PARCELS_CNT": 372847, 
+                "PARCELS_CNT": 317069, 
+                "RAYONS_CNT": 15, 
+                "REGION_KEY": "189", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 221
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1395100800000, 
+                "BRD_CNT": 0, 
+                "CAD_NUM": "90", 
+                "KVARTALS_CNT": 3021, 
+                "NAME": "Крымский", 
+                "OBJECTID": 325, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": 0, 
+                "ONLINE_OKS_CNT": 0, 
+                "ONLINE_PARCELS_CNT": 0, 
+                "PARCELS_CNT": 0, 
+                "RAYONS_CNT": 28, 
+                "REGION_KEY": "190", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 0
+            }
+        }, 
+        {
+            "attributes": {
+                "ACTUAL_DATE": 1395100800000, 
+                "BRD_CNT": 0, 
+                "CAD_NUM": "91", 
+                "KVARTALS_CNT": 420, 
+                "NAME": "Севастопольский", 
+                "OBJECTID": 326, 
+                "OKS_CNT": 0, 
+                "OMS_CNT": 0, 
+                "ONLINE_OKS_CNT": 0, 
+                "ONLINE_PARCELS_CNT": 0, 
+                "PARCELS_CNT": 0, 
+                "RAYONS_CNT": 6, 
+                "REGION_KEY": "191", 
+                "TZ_CNT": 0, 
+                "ZOUIT_CNT": 0
+            }
+        }
+    ], 
+    "fieldAliases": {
+        "ACTUAL_DATE": "ACTUAL_DATE", 
+        "BRD_CNT": "BRD_CNT", 
+        "CAD_NUM": "CAD_NUM", 
+        "KVARTALS_CNT": "KVARTALS_CNT", 
+        "NAME": "NAME", 
+        "OBJECTID": "OBJECTID", 
+        "OKS_CNT": "OKS_CNT", 
+        "OMS_CNT": "OMS_CNT", 
+        "ONLINE_ACTUAL_DATE": "ONLINE_ACTUAL_DATE", 
+        "ONLINE_OKS_CNT": "ONLINE_OKS_CNT", 
+        "ONLINE_PARCELS_CNT": "ONLINE_PARCELS_CNT", 
+        "PARCELS_CNT": "PARCELS_CNT", 
+        "RAYONS_CNT": "RAYONS_CNT", 
+        "REGION_KEY": "REGION_KEY", 
+        "TZ_CNT": "TZ_CNT", 
+        "ZOUIT_CNT": "ZOUIT_CNT"
+    }, 
+    "fields": [
+        {
+            "alias": "OBJECTID", 
+            "name": "OBJECTID", 
+            "type": "esriFieldTypeOID"
+        }, 
+        {
+            "alias": "REGION_KEY", 
+            "length": 3, 
+            "name": "REGION_KEY", 
+            "type": "esriFieldTypeString"
+        }, 
+        {
+            "alias": "CAD_NUM", 
+            "length": 10, 
+            "name": "CAD_NUM", 
+            "type": "esriFieldTypeString"
+        }, 
+        {
+            "alias": "NAME", 
+            "length": 50, 
+            "name": "NAME", 
+            "type": "esriFieldTypeString"
+        }, 
+        {
+            "alias": "ACTUAL_DATE", 
+            "length": 8, 
+            "name": "ACTUAL_DATE", 
+            "type": "esriFieldTypeDate"
+        }, 
+        {
+            "alias": "RAYONS_CNT", 
+            "name": "RAYONS_CNT", 
+            "type": "esriFieldTypeDouble"
+        }, 
+        {
+            "alias": "KVARTALS_CNT", 
+            "name": "KVARTALS_CNT", 
+            "type": "esriFieldTypeDouble"
+        }, 
+        {
+            "alias": "PARCELS_CNT", 
+            "name": "PARCELS_CNT", 
+            "type": "esriFieldTypeDouble"
+        }, 
+        {
+            "alias": "ONLINE_PARCELS_CNT", 
+            "name": "ONLINE_PARCELS_CNT", 
+            "type": "esriFieldTypeDouble"
+        }, 
+        {
+            "alias": "OKS_CNT", 
+            "name": "OKS_CNT", 
+            "type": "esriFieldTypeDouble"
+        }, 
+        {
+            "alias": "ONLINE_OKS_CNT", 
+            "name": "ONLINE_OKS_CNT", 
+            "type": "esriFieldTypeDouble"
+        }, 
+        {
+            "alias": "TZ_CNT", 
+            "name": "TZ_CNT", 
+            "type": "esriFieldTypeDouble"
+        }, 
+        {
+            "alias": "ZOUIT_CNT", 
+            "name": "ZOUIT_CNT", 
+            "type": "esriFieldTypeDouble"
+        }, 
+        {
+            "alias": "BRD_CNT", 
+            "name": "BRD_CNT", 
+            "type": "esriFieldTypeDouble"
+        }, 
+        {
+            "alias": "OMS_CNT", 
+            "name": "OMS_CNT", 
+            "type": "esriFieldTypeDouble"
+        }, 
+        {
+            "alias": "ONLINE_ACTUAL_DATE", 
+            "length": 8, 
+            "name": "ONLINE_ACTUAL_DATE", 
+            "type": "esriFieldTypeDate"
+        }
+    ]
+}
