@@ -1,5 +1,11 @@
 #!/bin/bash
 
+pushd `dirname $0` > /dev/null
+SCRIPTPATH=`pwd`
+popd > /dev/null
+
+cd $SCRIPTPATH
+
 DATE=`date +%Y-%m-%d\ %H:%M`
 
 echo "# pkk-monitor" > README.md
